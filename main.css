@@ -1,0 +1,43 @@
+/*Your CSS goes here.*/
+
+.graphic {
+	padding: 50px, 400px, 50px, 400px;
+}
+
+.headline {
+font-family: Franklin Light, sans-serif;
+background-color: lightseagreen;
+text-align: center;
+}
+
+.byline {
+font-family: Franklin Bold, sans-serif;
+}
+
+.caption {
+font-family: Franklin Light, sans-serif;
+font-size: 15px;
+}
+
+.graphicexplainer {
+	padding: 50px;
+		font-family: "Times New Roman," sans-serif;
+	font-size: 20px;
+}
+
+img {
+	max-width: 100%;
+	height: 100%;
+}
+
+h4 {
+	font-family: "Times New Roman," sans-serif;
+	font-size: 20px;
+padding: 10px;
+}
+
+p {
+	font-family: "Times New Roman," sans-serif;
+	font-size: 20px;
+padding: 10px 0px 10px 0px;
+}
